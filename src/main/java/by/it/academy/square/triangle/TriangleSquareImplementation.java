@@ -1,6 +1,6 @@
 package by.it.academy.square.triangle;
 
-public class TriangleSquareImplementation implements TriangleSquare{
+public class TriangleSquareImplementation implements TriangleSquare {
     @Override
     public double squareThroughBaseAndHeight(double base, double height) {
         double square = 0.5 * base * height;
