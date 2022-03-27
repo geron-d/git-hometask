@@ -1,13 +1,13 @@
 package by.it.academy;
 
-/**
- * Hello world!
- *
- */
-public class App 
+
+import by.it.academy.square.triangle.TriangleSquare;
+import by.it.academy.square.triangle.TriangleSquareImplementation;
+
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+
     }
 }
